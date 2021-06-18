@@ -1,6 +1,6 @@
 <?php
  $dbhost = 'localhost'; 
- $dbname = 'garima'; 
+ $dbname = ''; 
  $dbuser = 'root'; 
  $dbpass = ''; 
  
