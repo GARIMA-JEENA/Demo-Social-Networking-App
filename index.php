@@ -13,7 +13,7 @@ if(!isset($_SESSION))
 
  </div>
  <div data-role="footer">
-<h4>Thank you for visiting. All rights reserved.</
+<h4>Thank you .</
 h4>
  </div>
  </body>
